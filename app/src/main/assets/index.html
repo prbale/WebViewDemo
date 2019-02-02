@@ -1,0 +1,41 @@
+<html>
+<head>
+    <script type="text/javascript">
+
+        function addSomething(a,b){
+            return a + b;
+            console.log('log from javascript');
+        }
+
+        function changeText(){
+            document.getElementById('test1').innerHTML = 'Good Morning';
+        }
+
+    </script>
+
+
+</head>
+<body>
+
+<input
+        type="button"
+        onclick="window.MyHandler.setResult(9999)"
+        style="height:100px; white-space: normal;text-align:left;"
+        value="[JavaScript -> Java]"
+/>
+
+<br/>
+
+<input
+        type="button"
+        onclick="window.MyHandler.calcSomething(198,287)"
+        style="height:100px; white-space: normal;text-align:left;"
+        value="[JavaScript -> Java -> Javascript]"
+/>
+
+<br/>
+
+<h1 id="test1">Hello World</h1>
+
+</body>
+</html>

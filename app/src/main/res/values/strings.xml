@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MvpDemoApp</string>
+    <string name="some_error">Some generic error message.</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+    <string name="webview_demo">WebView Demo</string>
+    <string name="result">Callback got val: %d</string>
+    <string name="java_javascript_java"><![CDATA[[Java->Javascript->Java]]]></string>
+    <string name="java_javascript"><![CDATA[[Java->Javascript]]]></string>
+
+</resources>

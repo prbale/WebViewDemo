@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a8f66adc2de74af95059517e5a6478a60f306eaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02afd4def213fcc557fde1f140439ea6f217bd3c.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\android-sdk-windows-1.6_r1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ccb227c06e411fc3ff7775dc4906be22a462d2e2.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_94c1c72e25e4e12e29e26c1190dc51a86beab171.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a7b548f3de0944025c19275800af3b780d4245ae.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_26ad1d25d624f22cbea92b56fc44bf50f97db8f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_4c84e1b4d90cdb840e2cbc1a35741c570610ac99.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_3228d93ff4fd4881741d0e74c43989b8f0fad96e.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_aca6294fc7fa5a4aa1d184b03950398634d07e67.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_24c7a85b1df37999e72af098ac16b2e453c36020.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_5817525f1c1c0d5b22bb8f4ef9f759913b29919a.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_aef97bdea84e1010a0b5ac77180d5481297634cd.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_2b0ad14eaf3579b9e12fa99b654c476cce639f42.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_702857fac9307ef2fb1d8437ec1688209969947b.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d21825e7547340a43c054273f081c4309d50727b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_c5cb6e120a259e6cab8f6e42a79bf72bbd40c0be.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_a64847f7f4e962d2b373bfdc4b16dc2c9938581a.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_472242100f67d12e2ec8c50c47915f55ee230b8c.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ad9ee0b23f08ccdd143c0f3fbd61ec9b03e22cd6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_e8b8338245b39446ae2474dbd385f41d01a3e41b.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1a0b97d6f8df1947b6457473c277a7c37912a861.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_d1f8aef333970c29e4fe6e82b5cf266d4d59a061.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1b747123f78d0e4d84cf74b220af2a3661bd0da0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\gson-2.7_3fb4263c11ea3bcde180ac1f5f70b14e5eec5397.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\guava-20.0_c2fa886f7bb52b13ddf43928995f9d9db1c588d2.jar" />
+    </item>
+    <item
+        jar="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_51460026b3b98060874020e18274b988aaa3fdb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\Prashant\Coding\WebViewDemo\WebViewDemo\app\build\intermediates\pre-dexed\debug\okio-1.8.0_92ddf1cda246d45cf16ae63b8e6d51fca3453c3e.jar" />
+    </item>
+
+</items>

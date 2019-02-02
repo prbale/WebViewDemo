@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+    <Button
+        android:id="@+id/btnSimple"
+        android:layout_weight="1"
+        android:layout_width="0dip"
+        android:layout_height="100dp"
+        android:gravity="left|center_vertical"
+        android:text="@string/java_javascript"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/btnCalc"
+        android:layout_weight="1"
+        android:layout_width="0dip"
+        android:layout_height="100dp"
+        android:gravity="left|center_vertical"
+        android:text="@string/java_javascript_java"
+        tools:ignore="RtlHardcoded" />
+    </LinearLayout>
+
+    <TextView
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:id="@+id/myResult"
+        android:text="Result String"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp" />
+
+    <WebView
+        android:id="@+id/myWebView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>
