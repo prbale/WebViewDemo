@@ -2,40 +2,54 @@
 <head>
     <script type="text/javascript">
 
-        function addSomething(a,b){
-            return a + b;
+        // function call to calculate two numbers, This can be
+        // called from JavaScriptInterface class of from same HTML page.
+
+        function calculate(a,b){
+
+            var operator = document.getElementById("operator").value;
+
+            if( operator == "+" ) {
+                return a + b;
+            }
+            else if( operator == "-" ) {
+                return a - b;
+            }
+            else {
+                return "Please choose operator : + or -"
+            }
             console.log('log from javascript');
         }
 
-        function changeText(){
-            document.getElementById('test1').innerHTML = 'Good Morning';
+        function calculateFromHtml(p,q){
+
+           document.getElementById('result').innerHTML = calculate(p,q);
+
         }
 
     </script>
 
-
 </head>
 <body>
 
-<input
-        type="button"
-        onclick="window.MyHandler.setResult(9999)"
-        style="height:100px; white-space: normal;text-align:left;"
-        value="[JavaScript -> Java]"
-/>
+Operator:
+<input  id="operator"
+        type="text"
+       style="height:50px; white-space: normal;text-align:center;"
+       value="+"/>
 
+<br/>
 <br/>
 
 <input
         type="button"
-        onclick="window.MyHandler.calcSomething(198,287)"
-        style="height:100px; white-space: normal;text-align:left;"
-        value="[JavaScript -> Java -> Javascript]"
-/>
+        onclick="calculateFromHtml(window.MyHandler.getFirstNumber(), window.MyHandler.getSecondNumber()) "
+        style="height:50px; white-space: normal; text-align:left;"
+        value="Calculate"/>
 
 <br/>
 
-<h1 id="test1">Hello World</h1>
+<h1 id="result">Result : </h1>
 
 </body>
 </html>

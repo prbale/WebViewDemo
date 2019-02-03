@@ -2,12 +2,13 @@ package mvcdemo.palmspeed.com.mvpdemoapp;
 
 import android.webkit.JavascriptInterface;
 import android.webkit.WebView;
+import android.widget.Toast;
 
 public class JavaScriptInterface {
-    private AboutActivity parentActivity;
+    private CalculateActivity parentActivity;
     private WebView mWebView;
 
-    public JavaScriptInterface(AboutActivity _activity, WebView _webView)  {
+    public JavaScriptInterface(CalculateActivity _activity, WebView _webView)  {
         parentActivity = _activity;
         mWebView = _webView;
     }
@@ -29,7 +30,20 @@ public class JavaScriptInterface {
     }
 
     @JavascriptInterface
-    public void calcSomething(int x, int y){
+    public int getFirstNumber() {
+        Toast.makeText(this.parentActivity, this.parentActivity.getFirstNumber(), Toast.LENGTH_LONG).show();
+        return Integer.parseInt(this.parentActivity.getFirstNumber());
+    }
+
+    @JavascriptInterface
+    public int getSecondNumber() {
+        Toast.makeText(this.parentActivity, this.parentActivity.getSecondNumber(), Toast.LENGTH_LONG).show();
+        return Integer.parseInt(this.parentActivity.getSecondNumber());
+    }
+
+
+    @JavascriptInterface
+    public void calculate(int x, int y){
         this.parentActivity.changeText("Result is : " + (x * y));
     }
 }
